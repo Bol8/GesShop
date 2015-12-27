@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GesShop", "GesShop\GesShop.csproj", "{DFDF4DBC-877A-416F-8EB4-A4BA41864B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{925CDEB2-23F9-481F-95D2-19310B5EFFD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{737D30D3-A733-46FD-A207-68A1BE7F8013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDF4DBC-877A-416F-8EB4-A4BA41864B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDF4DBC-877A-416F-8EB4-A4BA41864B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDF4DBC-877A-416F-8EB4-A4BA41864B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDF4DBC-877A-416F-8EB4-A4BA41864B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925CDEB2-23F9-481F-95D2-19310B5EFFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925CDEB2-23F9-481F-95D2-19310B5EFFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925CDEB2-23F9-481F-95D2-19310B5EFFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925CDEB2-23F9-481F-95D2-19310B5EFFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737D30D3-A733-46FD-A207-68A1BE7F8013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737D30D3-A733-46FD-A207-68A1BE7F8013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737D30D3-A733-46FD-A207-68A1BE7F8013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737D30D3-A733-46FD-A207-68A1BE7F8013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
